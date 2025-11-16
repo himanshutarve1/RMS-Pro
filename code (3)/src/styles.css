@@ -1,1 +1,7 @@
-body { margin: 0; font-family: system-ui, sans-serif; }
+/* src/styles.css - minimal styles (paste exactly) */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
